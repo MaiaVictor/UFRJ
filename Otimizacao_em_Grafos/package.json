@@ -1,0 +1,16 @@
+{
+  "name": "otimizacao",
+  "version": "0.1.0",
+  "description": "O objetivo deste trabalho é implementar um algoritmo exato e um algoritmo aproximado que resolva o problema do caixeiro viajante.",
+  "main": "bench.js",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "tinyqueue": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaiaVictor",
+  "license": "MIT"
+}
